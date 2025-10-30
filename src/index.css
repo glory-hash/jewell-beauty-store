@@ -1,0 +1,95 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Variables personnalisées */
+:root {
+  --color-luxury-black: #1a1a1a;
+  --color-luxury-gold: #c6a55c;
+  --color-luxury-cream: #f9f6f0;
+  --font-display: 'Playfair Display', serif;
+  --font-body: 'Inter', system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial;
+  --font-accent: 'Playfair Display', serif;
+}
+
+/* Classes utilitaires */
+@layer utilities {
+  .luxury-container {
+    @apply container mx-auto px-4 sm:px-6 lg:px-8 max-w-7xl w-full;
+  }
+
+  .btn {
+    @apply px-6 py-2 bg-luxury-gold text-white font-medium rounded-luxury
+           transition-all duration-300 hover:bg-luxury-gold-dark 
+           focus:outline-none focus:ring-2 focus:ring-luxury-gold focus:ring-opacity-50
+           active:transform active:scale-95;
+  }
+
+  .btn-outline {
+    @apply px-6 py-2 border border-luxury-gold text-luxury-gold font-medium 
+           rounded-luxury transition-all duration-300
+           hover:bg-luxury-gold hover:text-white
+           focus:outline-none focus:ring-2 focus:ring-luxury-gold focus:ring-opacity-50
+           active:transform active:scale-95;
+  }
+
+  .section-title {
+    @apply text-3xl md:text-4xl font-display font-bold text-center text-luxury-black mb-2;
+  }
+
+  /* Typographie réutilisable */
+  .font-display {
+    font-family: var(--font-display);
+    /* letter-spacing subtil pour raffinement */
+    letter-spacing: 0.05em;
+  }
+
+  .font-body {
+    font-family: var(--font-body);
+    letter-spacing: 0;
+  }
+
+  .font-accent {
+    font-family: var(--font-accent);
+    letter-spacing: 0.05em;
+    font-weight: 500; /* accent medium */
+  }
+
+  /* Poids réutilisables */
+  .fw-300 { font-weight: 300; }
+  .fw-400 { font-weight: 400; }
+  .fw-500 { font-weight: 500; }
+  .fw-600 { font-weight: 600; }
+
+  /* Espace entre lettres pour raffinement */
+  .tracking-refined { letter-spacing: 0.05em; }
+}
+
+/* Animations */
+@keyframes float {
+  0%, 100% {
+    transform: translateY(0) rotate(3deg);
+  }
+  50% {
+    transform: translateY(-10px) rotate(3deg);
+  }
+}
+
+.animate-float {
+  animation: float 4s ease-in-out infinite;
+}
+
+@keyframes fade-in {
+  from {
+    opacity: 0;
+    transform: translateY(20px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+.animate-fade-in {
+  animation: fade-in 0.6s ease-out forwards;
+}

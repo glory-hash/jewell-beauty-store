@@ -1,0 +1,656 @@
+{
+  "products": [
+    {
+      "id": "chain-1",
+      "name": "Chaîne Personnalisée",
+      "description": "Chaîne élégante en plaqué or 18K, personnalisable avec votre nom ou message. Longueur 45-50cm ajustable.",
+      "price": 12000,
+      "category": "bijoux",
+      "images": [
+        "/produit/Chaines/chaine personnalisée.jpg"
+      ],
+      "stock": 15
+    },
+    {
+      "id": "chain-2",
+      "name": "Collier Personnalisé - Style 1",
+      "description": "Collier personnalisable avec pendentif élégant. Design unique et moderne.",
+      "price": 15000,
+      "category": "bijoux",
+      "images": [
+        "/produit/Chaines/colliers personnalisés 1.jpg"
+      ],
+      "stock": 10
+    },
+    {
+      "id": "chain-3",
+      "name": "Collier Personnalisé - Style 2",
+      "description": "Collier raffiné avec option de personnalisation. Finition de haute qualité.",
+      "price": 14000,
+      "category": "bijoux",
+      "images": [
+        "/produit/Chaines/colliers personnalisés 2.jpg"
+      ],
+      "stock": 12
+    },
+    {
+      "id": "watch-silver-set-1",
+      "name": "Ensemble Argenté Classic",
+      "description": "Ensemble montre et bracelet en argent, style intemporel.",
+      "price": 35000,
+      "category": "montres",
+      "images": [
+        "/produit/Montres/ensemble argenté 1.jpg",
+        "/produit/Montres/ensemble argenté 2.jpg",
+        "/produit/Montres/ensemble doré  8.jpg",
+        "/produit/Montres/ensemble doré 1.jpg",
+        "/produit/Montres/ensemble doré 2.jpg",
+        "/produit/Montres/ensemble doré 3.jpg",
+        "/produit/Montres/ensemble doré 4.jpg",
+        "/produit/Montres/ensemble doré 5.jpg",
+        "/produit/Montres/ensemble doré 6.jpg",
+        "/produit/Montres/ensemble doré 7.jpg",
+        "/produit/Montres/montre argentée 1.jpg",
+        "/produit/Montres/montre dorée 1.jpg",
+        "/produit/Montres/montre dorée 2.jpg",
+        "/produit/Montres/Montre feminin.jpg",
+        "/produit/Montres/Montres femmes.jpg"
+      ],
+      "stock": 5
+    },
+    {
+      "id": "watch-gold-set-1",
+      "name": "Ensemble Doré Luxe",
+      "description": "Collection exclusive de montres et accessoires dorés.",
+      "price": 45000,
+      "category": "montres",
+      "images": [
+        "/produit/Montres/ensemble doré 1.jpg",
+        "/produit/Montres/ensemble doré 2.jpg",
+        "/produit/Montres/ensemble doré 3.jpg"
+      ],
+      "stock": 3
+    },
+    {
+      "id": "watch-gold-set-2",
+      "name": "Ensemble Doré Premium",
+      "description": "Set premium avec montre dorée et accessoires assortis.",
+      "price": 50000,
+      "category": "montres",
+      "images": [
+        "/produit/Montres/ensemble doré 4.jpg",
+        "/produit/Montres/ensemble doré 5.jpg",
+        "/produit/Montres/ensemble doré 6.jpg"
+      ],
+      "stock": 2
+    },
+    {
+      "id": "watch-gold-set-3",
+      "name": "Ensemble Doré Élégance",
+      "description": "L'alliance parfaite entre style et sophistication.",
+      "price": 48000,
+      "category": "montres",
+      "images": [
+        "/produit/Montres/ensemble doré 7.jpg",
+        "/produit/Montres/ensemble doré  8.jpg"
+      ],
+      "stock": 4
+    },
+    {
+      "id": "watch-silver-1",
+      "name": "Montre Argentée Classic",
+      "description": "Montre argentée au design épuré et élégant.",
+      "price": 28000,
+      "category": "montres",
+      "images": [
+        "/produit/Montres/montre argentée 1.jpg"
+      ],
+      "stock": 8
+    },
+    {
+      "id": "watch-gold-1",
+      "name": "Montre Dorée Luxe",
+      "description": "Montre dorée, symbole d'élégance et de raffinement.",
+      "price": 32000,
+      "category": "montres",
+      "images": [
+        "/produit/Montres/montre dorée 1.jpg"
+      ],
+      "stock": 6
+    },
+    {
+      "id": "watch-gold-2",
+      "name": "Montre Dorée Premium",
+      "description": "Montre dorée premium avec finitions luxueuses.",
+      "price": 35000,
+      "category": "montres",
+      "images": [
+        "/produit/Montres/montre dorée 2.jpg"
+      ],
+      "stock": 4
+    },
+    {
+      "id": "parfum-1",
+      "name": "Eskoda Pink",
+      "description": "Une fragrance florale délicate aux notes fraîches et féminines.",
+      "price": 18000,
+      "category": "parfums",
+      "images": [
+        "/produit/Parfums/Eskoda pink.jpg",
+        "/produit/Parfums/Dolce et gabana.jpg",
+        "/produit/Parfums/Essentials Parfums.jpg",
+        "/produit/Parfums/Hypnotic Poıson parfum.jpg",
+        "/produit/Parfums/Itense Man.jpg",
+        "/produit/Parfums/Miss Dior Parfums.jpg",
+        "/produit/Parfums/Pack femme.jpg",
+        "/produit/Parfums/Pack homme.jpg",
+        "/produit/Parfums/Prada parfum.jpg",
+        "/produit/Parfums/Victoria Secret huiles.jpg",
+        "/produit/Parfums/Victorias secret parfums.jpg"
+      ],
+      "stock": 15
+    },
+    {
+      "id": "parfum-2",
+      "name": "Essentials Parfums",
+      "description": "Collection de parfums essentiels pour toutes occasions.",
+      "price": 22000,
+      "category": "parfums",
+      "images": [
+        "/produit/Parfums/Essentials Parfums.jpg"
+      ],
+      "stock": 12
+    },
+    {
+      "id": "parfum-3",
+      "name": "Intense Man",
+      "description": "Parfum masculin intense aux notes boisées et épicées.",
+      "price": 25000,
+      "category": "parfums",
+      "images": [
+        "/produit/Parfums/Itense Man.jpg"
+      ],
+      "stock": 10
+    },
+    {
+      "id": "parfum-4",
+      "name": "Maycreate",
+      "description": "Une création unique aux senteurs modernes et raffinées.",
+      "price": 20000,
+      "category": "parfums",
+      "images": [
+        "/produit/Parfums/Maycreate.jpg"
+      ],
+      "stock": 18
+    },
+    {
+      "id": "parfum-set-1",
+      "name": "Coffret Femme",
+      "description": "Sélection exclusive de parfums pour femme.",
+      "price": 45000,
+      "category": "parfums",
+      "images": [
+        "/produit/Parfums/Pack femme.jpg"
+      ],
+      "stock": 5
+    },
+    {
+      "id": "parfum-set-2",
+      "name": "Coffret Homme",
+      "description": "Collection premium de parfums pour homme.",
+      "price": 42000,
+      "category": "parfums",
+      "images": [
+        "/produit/Parfums/Pack homme.jpg"
+      ],
+      "stock": 6
+    },
+    {
+      "id": "parfum-5",
+      "name": "Scandant",
+      "description": "Un parfum audacieux qui laisse une impression durable.",
+      "price": 28000,
+      "category": "parfums",
+      "images": [
+        "/produit/Parfums/Scandant.jpg"
+      ],
+      "stock": 8
+    },
+    {
+      "id": "amazon-retro-bangles",
+      "name": "Amazon Retro Bangles",
+      "description": "Bracelet rétro au style unique.",
+      "price": 12000,
+      "category": "bracelets",
+      "images": [
+        "/produit/Bracelets et boucles/Amazon retro bangles.jpg"
+      ],
+      "stock": 10
+    },
+    {
+      "id": "boucle-d-oreille",
+      "name": "Boucle D'Oreille",
+      "description": "Boucle d'oreille élégante.",
+      "price": 15000,
+      "category": "boucles",
+      "images": [
+        "/produit/Bracelets et boucles/Boucle d'oreille.jpg"
+      ],
+      "stock": 10
+    },
+    {
+      "id": "boucle-d-orilles",
+      "name": "Boucles D'Oreilles",
+      "description": "Boucles d'oreilles raffinées.",
+      "price": 15000,
+      "category": "boucles",
+      "images": [
+        "/produit/Bracelets et boucles/Boucle d'orilles.jpg"
+      ],
+      "stock": 10
+    },
+    {
+      "id": "bracelet-floral",
+      "name": "Bracelet Floral",
+      "description": "Bracelet décoré de motifs floraux.",
+      "price": 12000,
+      "category": "bracelets",
+      "images": [
+        "/produit/Bracelets et boucles/Bracelet floral.jpg"
+      ],
+      "stock": 10
+    },
+    {
+      "id": "bracelet-model-traditionelles",
+      "name": "Bracelet Modèle Traditionnel",
+      "description": "Bracelet au style traditionnel.",
+      "price": 12000,
+      "category": "bracelets",
+      "images": [
+        "/produit/Bracelets et boucles/Bracelet model traditionelles.jpg"
+      ],
+      "stock": 10
+    },
+    {
+      "id": "bracelets-1",
+      "name": "Bracelets 1",
+      "description": "Ensemble de bracelets.",
+      "price": 12000,
+      "category": "bracelets",
+      "images": [
+        "/produit/Bracelets et boucles/Bracelets 1.jpg"
+      ],
+      "stock": 10
+    },
+    {
+      "id": "bracelets-de-perles",
+      "name": "Bracelets De Perles",
+      "description": "Bracelet orné de perles fines.",
+      "price": 14000,
+      "category": "bracelets",
+      "images": [
+        "/produit/Bracelets et boucles/Bracelets de perles.jpg"
+      ],
+      "stock": 10
+    },
+    {
+      "id": "bracelets",
+      "name": "Bracelets",
+      "description": "Bracelet classique.",
+      "price": 11000,
+      "category": "bracelets",
+      "images": [
+        "/produit/Bracelets et boucles/Bracelets.jpg",
+        "/produit/Bracelets et boucles/Bracelets 1.jpg",
+        "/produit/Bracelets et boucles/Bracelets de perles.jpg",
+        "/produit/Bracelets et boucles/Ensemble bracelets.jpg"
+      ],
+      "stock": 10
+    },
+    {
+      "id": "bracetets-model-serpant",
+      "name": "Bracelet Modèle Serpent",
+      "description": "Bracelet modèle serpent élégant.",
+      "price": 13000,
+      "category": "bracelets",
+      "images": [
+        "/produit/Bracelets et boucles/Bracetets model serpant.jpg"
+      ],
+      "stock": 10
+    },
+    {
+      "id": "ensemble-bracelets",
+      "name": "Ensemble Bracelets",
+      "description": "Ensemble assorti de bracelets.",
+      "price": 22000,
+      "category": "bracelets",
+      "images": [
+        "/produit/Bracelets et boucles/Ensemble bracelets.jpg"
+      ],
+      "stock": 8
+    },
+    {
+      "id": "collier-de-mer",
+      "name": "Collier De Mer",
+      "description": "Collier inspiré des motifs marins, parfait pour un look estival.",
+      "price": 13500,
+      "category": "chaines",
+      "images": [
+        "/produit/Chaines/Collier de mer.jpg",
+        "/produit/Chaines/chaine personnalisée.jpg",
+        "/produit/Chaines/colliers personnalisés 1.jpg",
+        "/produit/Chaines/colliers personnalisés 2.jpg",
+        "/produit/Chaines/Echantillon de collier.jpg"
+      ],
+      "stock": 12
+    },
+    {
+      "id": "echantillon-de-collier",
+      "name": "Échantillon De Collier",
+      "description": "Petit collier d'exposition, design sobre et modulable.",
+      "price": 9000,
+      "category": "chaines",
+      "images": [
+        "/produit/Chaines/Echantillon de collier.jpg"
+      ],
+      "stock": 15
+    },
+    {
+      "id": "pondentif",
+      "name": "Pendentif",
+      "description": "Pendentif décoratif pouvant s'associer à plusieurs chaînes.",
+      "price": 8000,
+      "category": "chaines",
+      "images": [
+        "/produit/Chaines/Pondentif.jpg"
+      ],
+      "stock": 20
+    },
+    {
+      "id": "watch-silver-set-1-0-ensemble-argente-1",
+      "name": "Ensemble Argenté Classic — Ensemble Argenté 1",
+      "description": "Ensemble montre et bracelet en argent, style intemporel. (variation d'image)",
+      "price": 35000,
+      "category": "montres",
+      "images": [
+        "/produit/Montres/ensemble argenté 1.jpg"
+      ],
+      "stock": 5
+    },
+    {
+      "id": "watch-silver-set-1-1-ensemble-argente-2",
+      "name": "Ensemble Argenté Classic — Ensemble Argenté 2",
+      "description": "Ensemble montre et bracelet en argent, style intemporel. (variation d'image)",
+      "price": 35000,
+      "category": "montres",
+      "images": [
+        "/produit/Montres/ensemble argenté 2.jpg"
+      ],
+      "stock": 5
+    },
+    {
+      "id": "watch-silver-set-1-2-ensemble-dore-8",
+      "name": "Ensemble Argenté Classic — Ensemble Doré 8",
+      "description": "Ensemble montre et bracelet en argent, style intemporel. (variation d'image)",
+      "price": 35000,
+      "category": "montres",
+      "images": [
+        "/produit/Montres/ensemble doré  8.jpg"
+      ],
+      "stock": 5
+    },
+    {
+      "id": "watch-silver-set-1-4-ensemble-dore-2",
+      "name": "Ensemble Argenté Classic — Ensemble Doré 2",
+      "description": "Ensemble montre et bracelet en argent, style intemporel. (variation d'image)",
+      "price": 35000,
+      "category": "montres",
+      "images": [
+        "/produit/Montres/ensemble doré 2.jpg"
+      ],
+      "stock": 5
+    },
+    {
+      "id": "watch-silver-set-1-5-ensemble-dore-3",
+      "name": "Ensemble Argenté Classic — Ensemble Doré 3",
+      "description": "Ensemble montre et bracelet en argent, style intemporel. (variation d'image)",
+      "price": 35000,
+      "category": "montres",
+      "images": [
+        "/produit/Montres/ensemble doré 3.jpg"
+      ],
+      "stock": 5
+    },
+    {
+      "id": "watch-silver-set-1-7-ensemble-dore-5",
+      "name": "Ensemble Argenté Classic — Ensemble Doré 5",
+      "description": "Ensemble montre et bracelet en argent, style intemporel. (variation d'image)",
+      "price": 35000,
+      "category": "montres",
+      "images": [
+        "/produit/Montres/ensemble doré 5.jpg"
+      ],
+      "stock": 5
+    },
+    {
+      "id": "watch-silver-set-1-8-ensemble-dore-6",
+      "name": "Ensemble Argenté Classic — Ensemble Doré 6",
+      "description": "Ensemble montre et bracelet en argent, style intemporel. (variation d'image)",
+      "price": 35000,
+      "category": "montres",
+      "images": [
+        "/produit/Montres/ensemble doré 6.jpg"
+      ],
+      "stock": 5
+    },
+    {
+      "id": "watch-silver-set-1-13-montre-feminin",
+      "name": "Ensemble Argenté Classic — Montre Feminin",
+      "description": "Ensemble montre et bracelet en argent, style intemporel. (variation d'image)",
+      "price": 35000,
+      "category": "montres",
+      "images": [
+        "/produit/Montres/Montre feminin.jpg"
+      ],
+      "stock": 5
+    },
+    {
+      "id": "watch-silver-set-1-14-montres-femmes",
+      "name": "Ensemble Argenté Classic — Montres Femmes",
+      "description": "Ensemble montre et bracelet en argent, style intemporel. (variation d'image)",
+      "price": 35000,
+      "category": "montres",
+      "images": [
+        "/produit/Montres/Montres femmes.jpg"
+      ],
+      "stock": 5
+    },
+    {
+      "id": "watch-gold-set-1-0-ensemble-dore-1",
+      "name": "Ensemble Doré Luxe — Ensemble Doré 1",
+      "description": "Collection exclusive de montres et accessoires dorés. (variation d'image)",
+      "price": 45000,
+      "category": "montres",
+      "images": [
+        "/produit/Montres/ensemble doré 1.jpg"
+      ],
+      "stock": 3
+    },
+    {
+      "id": "watch-gold-set-1-1-ensemble-dore-2",
+      "name": "Ensemble Doré Luxe — Ensemble Doré 2",
+      "description": "Collection exclusive de montres et accessoires dorés. (variation d'image)",
+      "price": 45000,
+      "category": "montres",
+      "images": [
+        "/produit/Montres/ensemble doré 2.jpg"
+      ],
+      "stock": 3
+    },
+    {
+      "id": "watch-gold-set-1-2-ensemble-dore-3",
+      "name": "Ensemble Doré Luxe — Ensemble Doré 3",
+      "description": "Collection exclusive de montres et accessoires dorés. (variation d'image)",
+      "price": 45000,
+      "category": "montres",
+      "images": [
+        "/produit/Montres/ensemble doré 3.jpg"
+      ],
+      "stock": 3
+    },
+    {
+      "id": "watch-gold-set-2-0-ensemble-dore-4",
+      "name": "Ensemble Doré Premium — Ensemble Doré 4",
+      "description": "Set premium avec montre dorée et accessoires assortis. (variation d'image)",
+      "price": 50000,
+      "category": "montres",
+      "images": [
+        "/produit/Montres/ensemble doré 4.jpg"
+      ],
+      "stock": 2
+    },
+    {
+      "id": "watch-gold-set-2-1-ensemble-dore-5",
+      "name": "Ensemble Doré Premium — Ensemble Doré 5",
+      "description": "Set premium avec montre dorée et accessoires assortis. (variation d'image)",
+      "price": 50000,
+      "category": "montres",
+      "images": [
+        "/produit/Montres/ensemble doré 5.jpg"
+      ],
+      "stock": 2
+    },
+    {
+      "id": "watch-gold-set-2-2-ensemble-dore-6",
+      "name": "Ensemble Doré Premium — Ensemble Doré 6",
+      "description": "Set premium avec montre dorée et accessoires assortis. (variation d'image)",
+      "price": 50000,
+      "category": "montres",
+      "images": [
+        "/produit/Montres/ensemble doré 6.jpg"
+      ],
+      "stock": 2
+    },
+    {
+      "id": "watch-gold-set-3-0-ensemble-dore-7",
+      "name": "Ensemble Doré Élégance — Ensemble Doré 7",
+      "description": "L'alliance parfaite entre style et sophistication. (variation d'image)",
+      "price": 48000,
+      "category": "montres",
+      "images": [
+        "/produit/Montres/ensemble doré 7.jpg"
+      ],
+      "stock": 4
+    },
+    {
+      "id": "watch-gold-set-3-1-ensemble-dore-8",
+      "name": "Ensemble Doré Élégance — Ensemble Doré 8",
+      "description": "L'alliance parfaite entre style et sophistication. (variation d'image)",
+      "price": 48000,
+      "category": "montres",
+      "images": [
+        "/produit/Montres/ensemble doré  8.jpg"
+      ],
+      "stock": 4
+    },
+    {
+      "id": "parfum-1-0-eskoda-pink",
+      "name": "Eskoda Pink — Eskoda Pink",
+      "description": "Une fragrance florale délicate aux notes fraîches et féminines. (variation d'image)",
+      "price": 18000,
+      "category": "parfums",
+      "images": [
+        "/produit/Parfums/Eskoda pink.jpg"
+      ],
+      "stock": 15
+    },
+    {
+      "id": "parfum-1-1-dolce-et-gabana",
+      "name": "Eskoda Pink — Dolce Et Gabana",
+      "description": "Une fragrance florale délicate aux notes fraîches et féminines. (variation d'image)",
+      "price": 18000,
+      "category": "parfums",
+      "images": [
+        "/produit/Parfums/Dolce et gabana.jpg"
+      ],
+      "stock": 15
+    },
+    {
+      "id": "parfum-1-3-hypnotic-po-son-parfum",
+      "name": "Eskoda Pink — Hypnotic Poıson Parfum",
+      "description": "Une fragrance florale délicate aux notes fraîches et féminines. (variation d'image)",
+      "price": 18000,
+      "category": "parfums",
+      "images": [
+        "/produit/Parfums/Hypnotic Poıson parfum.jpg"
+      ],
+      "stock": 15
+    },
+    {
+      "id": "parfum-1-5-miss-dior-parfums",
+      "name": "Eskoda Pink — Miss Dior Parfums",
+      "description": "Une fragrance florale délicate aux notes fraîches et féminines. (variation d'image)",
+      "price": 18000,
+      "category": "parfums",
+      "images": [
+        "/produit/Parfums/Miss Dior Parfums.jpg"
+      ],
+      "stock": 15
+    },
+    {
+      "id": "parfum-1-8-prada-parfum",
+      "name": "Eskoda Pink — Prada Parfum",
+      "description": "Une fragrance florale délicate aux notes fraîches et féminines. (variation d'image)",
+      "price": 18000,
+      "category": "parfums",
+      "images": [
+        "/produit/Parfums/Prada parfum.jpg"
+      ],
+      "stock": 15
+    },
+    {
+      "id": "parfum-1-9-victoria-secret-huiles",
+      "name": "Eskoda Pink — Victoria Secret Huiles",
+      "description": "Une fragrance florale délicate aux notes fraîches et féminines. (variation d'image)",
+      "price": 18000,
+      "category": "parfums",
+      "images": [
+        "/produit/Parfums/Victoria Secret huiles.jpg"
+      ],
+      "stock": 15
+    },
+    {
+      "id": "parfum-1-10-victorias-secret-parfums",
+      "name": "Eskoda Pink — Victorias Secret Parfums",
+      "description": "Une fragrance florale délicate aux notes fraîches et féminines. (variation d'image)",
+      "price": 18000,
+      "category": "parfums",
+      "images": [
+        "/produit/Parfums/Victorias secret parfums.jpg"
+      ],
+      "stock": 15
+    },
+    {
+      "id": "bracelets-0-bracelets",
+      "name": "Bracelets — Bracelets",
+      "description": "Bracelet classique. (variation d'image)",
+      "price": 11000,
+      "category": "bracelets",
+      "images": [
+        "/produit/Bracelets et boucles/Bracelets.jpg"
+      ],
+      "stock": 10
+    },
+    {
+      "id": "collier-de-mer-0-collier-de-mer",
+      "name": "Collier De Mer — Collier De Mer",
+      "description": "Collier inspiré des motifs marins, parfait pour un look estival. (variation d'image)",
+      "price": 13500,
+      "category": "chaines",
+      "images": [
+        "/produit/Chaines/Collier de mer.jpg"
+      ],
+      "stock": 12
+    }
+  ]
+}
